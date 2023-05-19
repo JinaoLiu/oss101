@@ -15,6 +15,7 @@ jobs:
           "abcdabcd3899",
           "zzyzeyuan",
           "heroding77",
+          "JinaoLiu",
         ]'), github.event.sender.login)
     steps:
       - name: Add reaction
